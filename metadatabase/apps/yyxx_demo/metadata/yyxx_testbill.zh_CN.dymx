@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J5HJ4G3=VW9</MasterId>
+  <Id>1J5HJ4G3=VW9</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>yyxx_testbill</Number>
+      <PkId>1J5HM7TOKPVF</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>测试单据</Name>
+      <Id>1J5HJ4G3=VW9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>yyxx_testbill</Number>
+      <PkId>1J5HM7UPG=NB</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试单据</Name>
+      <Id>1J5HJ4G3=VW9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618274621431</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

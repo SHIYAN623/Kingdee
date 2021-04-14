@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J2PVP2QJCVW</MasterId>
+  <Id>1J2PVP2QJCVW</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>yyxx_pur_order</Number>
+      <PkId>1J672EGWZ9AS</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>采购订单</Name>
+      <Id>1J2PVP2QJCVW</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>yyxx_pur_order</Number>
+      <PkId>1J672EM/D3L8</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <CurrencyField action="edit" oid="Uq1FtHSXFH">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <UnitField action="edit" oid="MHVTnEn6PV">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>采购订单</Name>
+      <Id>1J2PVP2QJCVW</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618292145363</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

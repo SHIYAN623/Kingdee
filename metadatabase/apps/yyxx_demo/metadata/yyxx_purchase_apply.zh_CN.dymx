@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1IR9OHMOMKU/</MasterId>
+  <Id>1IR9OHMOMKU/</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>yyxx_purchase_apply</Number>
+      <PkId>1J3=K3DTT/AH</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>采购申请单</Name>
+      <Id>1IR9OHMOMKU/</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>yyxx_purchase_apply</Number>
+      <PkId>1J3=K3FDF0XZ</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <CurrencyField action="edit" oid="5D6wxg26WU">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <UnitField action="edit" oid="ZVkttooCTT">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>采购申请单</Name>
+      <Id>1IR9OHMOMKU/</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618219718070</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

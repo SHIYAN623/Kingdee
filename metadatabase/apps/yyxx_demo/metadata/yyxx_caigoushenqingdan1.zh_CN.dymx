@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J212=XR3RYD</MasterId>
+  <Id>1J212=XR3RYD</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>yyxx_caigoushenqingdan1</Number>
+      <PkId>1J66TTVERK/4</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>采购申请单1</Name>
+      <Id>1J212=XR3RYD</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>yyxx_caigoushenqingdan1</Number>
+      <PkId>1J66TTWXS6E2</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <UnitField action="edit" oid="KWPgom94iF">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>采购申请单1</Name>
+      <Id>1J212=XR3RYD</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618291971860</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

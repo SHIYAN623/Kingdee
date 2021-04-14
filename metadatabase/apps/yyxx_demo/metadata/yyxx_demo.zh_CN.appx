@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1I012TOBZ8RL</MasterId>
+  <Id>1I012TOBZ8RL</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1J5U3T4AZ/RP</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>测试应用</Name>
+      <Description></Description>
+      <Id>1I012TOBZ8RL</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
